@@ -12,6 +12,7 @@ Note : You don't have to use the Meta Horizon mobile app at any point during the
 
 The main package to download is the XR Interaction Toolkit which can be downloaded from the Asset Store. The other assets used in the game should be available in the repo. 
 
+Download Gregor Quendell celebration audios from the [Unity Asset Store](https://assetstore.unity.com/packages/audio/sound-fx/free-crowd-cheering-sounds-225494?srsltid=AfmBOopRoRWQSGi7ih51FpN4MqiqDc974XvXxG2ZiBq4l3UIqF54rFcB)
 ## Features Developed
   - User can catch and shoot the basketball
   - Whenever the basket is scored, the score increases by 1 and a difficulty mode is enables
